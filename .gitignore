@@ -1,0 +1,16 @@
+# Python / Virtual Environment
+.venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE files
+.vscode/
+.idea/
+
+# OS specific
+.DS_Store
+Thumbs.db
+etfs/
+stocks/
